@@ -1,1 +1,1 @@
-hello"oohashihitomi" 
+IO.puts "hello" 
