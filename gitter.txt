@@ -1,2 +1,1 @@
-git checkout testbranch
-git add test.txt
+start
